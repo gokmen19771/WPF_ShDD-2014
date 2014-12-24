@@ -1,0 +1,531 @@
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimMVC\obj\Debug\MvcApplication1.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+C:\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+C:\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll.config
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\EntityFramework.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Spatial.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Optimization.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Providers.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\WebGrease.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\EntityFramework.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\System.Spatial.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\de\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\es\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\fr\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\it\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ja\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ko\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\ru\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll.config
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\EntityFramework.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Spatial.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Optimization.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Providers.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\WebGrease.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\EntityFramework.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\System.Spatial.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\de\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\es\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\fr\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\it\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ja\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ko\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\ru\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll.config
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\EntityFramework.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Spatial.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Optimization.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Providers.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\WebGrease.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\EntityFramework.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\System.Spatial.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\de\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\es\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\fr\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\it\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ja\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ko\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\ru\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll.config
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\MvcApplication1.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Antlr3.Runtime.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\EntityFramework.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Spatial.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Optimization.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Providers.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\WebGrease.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\EntityFramework.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Newtonsoft.Json.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Net.Http.Formatting.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Helpers.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.WebHost.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Mvc.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Razor.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Deployment.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.WebPages.Razor.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.Tracing.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Web.Http.OData.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.Edm.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\Microsoft.Data.OData.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\System.Spatial.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\de\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\es\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\fr\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\it\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ja\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ko\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ru\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\de\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\es\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\fr\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\it\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ja\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ko\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\ru\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\zh-Hans\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\bin\zh-Hant\System.Spatial.resources.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\obj\Debug\DenetimMVC.csprojResolveAssemblyReference.cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimMVC\obj\Debug\MvcApplication1.pdb

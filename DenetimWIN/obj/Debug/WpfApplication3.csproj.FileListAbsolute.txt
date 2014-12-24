@@ -1,0 +1,103 @@
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\EntityFramework.dll
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\EntityFramework.xml
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\MainWindow.baml
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\MainWindow.g.cs
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\App.g.cs
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3_Content.g.cs
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3.pdb
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\Newtonsoft.Json.xml
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\gokmen\documents\visual studio 2012\Projects\WpfApplication3\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\Debug\Window1.g.cs
+C:\Users\Gokmen\Documents\Visual Studio 2012\Projects\WpfApplication3\obj\Debug\Window1.baml
+C:\Users\Gokmen\documents\visual studio 2012\Projects\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\wpfEvrak\wpfEvrak\bin\Debug\WpfApplication3.exe.config
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3.exe
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3.pdb
+D:\wpfEvrak\wpfEvrak\obj\Debug\LoginWindow.g.cs
+D:\wpfEvrak\wpfEvrak\obj\Debug\MainWindow.g.cs
+D:\wpfEvrak\wpfEvrak\obj\Debug\Window1.g.cs
+D:\wpfEvrak\wpfEvrak\obj\Debug\App.g.cs
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3_Content.g.cs
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\wpfEvrak\wpfEvrak\bin\Debug\WpfApplication3.exe
+D:\wpfEvrak\wpfEvrak\bin\Debug\WpfApplication3.pdb
+D:\wpfEvrak\wpfEvrak\bin\Debug\DevExpress.Images.v13.1.dll
+D:\wpfEvrak\wpfEvrak\bin\Debug\EntityFramework.dll
+D:\wpfEvrak\wpfEvrak\bin\Debug\Newtonsoft.Json.dll
+D:\wpfEvrak\wpfEvrak\bin\Debug\System.Net.Http.Formatting.dll
+D:\wpfEvrak\wpfEvrak\bin\Debug\EntityFramework.xml
+D:\wpfEvrak\wpfEvrak\bin\Debug\Newtonsoft.Json.xml
+D:\wpfEvrak\wpfEvrak\bin\Debug\System.Net.Http.Formatting.xml
+D:\wpfEvrak\wpfEvrak\obj\Debug\LoginWindow.baml
+D:\wpfEvrak\wpfEvrak\obj\Debug\MainWindow.baml
+D:\wpfEvrak\wpfEvrak\obj\Debug\Window1.baml
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3.g.resources
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\wpfEvrak\wpfEvrak\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\wpfEvrak 1.1\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\wpfEvrak 1.1\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\wpfEvrak 1.1\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\Window1.g.cs
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\Window1.baml
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD\DenetimWIN\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\Window1.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\Window1.baml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache

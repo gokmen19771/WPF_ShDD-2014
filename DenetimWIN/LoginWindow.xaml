@@ -1,0 +1,56 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     
+      
+        xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+     xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" x:Class="dxDenetim2013.View.KullanıcıWindow"
+        Title="Kullanıcı Giriş"  Width="438" WindowStartupLocation="CenterScreen" 
+    Height="202" WindowStyle="ToolWindow" ScrollViewer.VerticalScrollBarVisibility="Disabled" 
+    ResizeMode="NoResize" Background="{x:Null}" >
+
+
+    <dxlc:LayoutControl    Orientation="Horizontal" Padding="0" Background="#FFB2BDDA" >
+
+        <dxlc:LayoutGroup Width="150">
+            <dxlc:LayoutItem VerticalAlignment="Stretch" Background="#FFCCCEDB" >
+                <Image  Source="/Images/anahtar.png"  />
+           
+            </dxlc:LayoutItem>
+        </dxlc:LayoutGroup>
+
+        <dxlc:LayoutGroup Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Padding="10,30,10,0" Background="White">
+            <dxlc:LayoutGroup>
+
+                <dxlc:LayoutGroup Orientation="Vertical">
+                    <dxlc:LayoutItem Label="Kullanıcı Adı :" FontWeight="Bold">
+                        <dxe:TextEdit x:Name="txtKullanici"  Text="{Binding KullanıcıAd,UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Stretch"/>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem  Label="Parola :" Margin="0,5,0,0" FontWeight="Bold" >
+                        <dxe:PasswordBoxEdit  HorizontalAlignment="Stretch" Password="{Binding Parola,UpdateSourceTrigger=PropertyChanged}" x:Name="txtParola" />
+                    </dxlc:LayoutItem>
+
+                </dxlc:LayoutGroup>
+            </dxlc:LayoutGroup>
+            <Border BorderThickness="0,0,0,1" BorderBrush="#FF9C9494">
+                <dxlc:LayoutItem Height="25" Label="{Binding HataMesaj}">
+                </dxlc:LayoutItem>
+            </Border>
+
+
+            <dxlc:LayoutGroup View="Group"   Header="LayoutGroup" VerticalAlignment="Bottom"  Margin="10,0,0,10" Padding="2,2,2,2" Background="{x:Null}" >
+                <Button IsCancel="true"  Content="İptal" Height="30"  Width="56" HorizontalAlignment="Right"/>
+                <Button IsDefault="true"   Content="Giriş"  Height="30"  Width="100" Click="Button_Click_1" HorizontalAlignment="Right" HorizontalContentAlignment="Center"/>
+            </dxlc:LayoutGroup>
+
+        </dxlc:LayoutGroup>
+
+    </dxlc:LayoutControl>
+
+
+
+
+</Window>

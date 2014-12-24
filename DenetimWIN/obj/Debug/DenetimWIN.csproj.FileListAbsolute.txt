@@ -1,0 +1,595 @@
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\Window1.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\Window1.baml
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\Window1.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\Window1.baml
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1.2\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\Window1.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\Window1.baml
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1.3\DD_v1\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\EvrakKayıt.baml
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\EvrakEdit.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.4\DenetimWIN\obj\Debug\EvrakEdit.baml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\EvrakEdit.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\EvrakKayıt.baml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\EvrakEdit.baml
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1.5\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\WpfApplication3.exe.config
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\WpfApplication3.exe
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\WpfApplication3.pdb
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\EvrakEdit.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3_Content.g.cs
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\EvrakKayıt.baml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\EvrakEdit.baml
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3.g.resources
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\WpfApplication3.exe.manifest
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\bin\Debug\WpfApplication3.application
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3.exe.manifest
+C:\Users\Gokmen\Desktop\DD_v1.6\DenetimWIN\obj\Debug\WpfApplication3.application
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEdit.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEdit.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEdit.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEdit.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\DenetimApp_Host\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEdit.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEdit.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Data.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Core.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Grid.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.NavBar.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGauges.v13.1.Presets.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Data.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Core.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Grid.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.NavBar.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGauges.v13.1.Presets.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakKayıt.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEditView.g.cs
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\EvrakEditView.baml
+C:\Users\Gokmen\Desktop\DenetimApp_Host_v1.5\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Data.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.ExpressApp.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Office.v13.1.Core.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Printing.v13.1.Core.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.UI.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Core.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Grid.v13.1.Core.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.NavBar.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraBars.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraEditors.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGauges.v13.1.Presets.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGrid.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraLayout.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Extensions.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraWizard.v13.1.resources.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtListView.baml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtListView.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtEditView.baml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtEditView.g.cs
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.baml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.baml
+C:\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Data.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.ExpressApp.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Core.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.Grid.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.Xpf.NavBar.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGauges.v13.1.Presets.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.Extensions.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraScheduler.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\tr-TR\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtEditView.baml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtListView.baml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtEditView.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\DosyaKayıtListView.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.baml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.baml
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\appp\DenetimApp_Host_v6.0\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.g.cs
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.g.cs
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.lref
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.baml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.baml
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\03112013 perf_1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.baml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.g.cs
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.g.cs
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.baml
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+C:\Users\Gokmen\Desktop\03112013 p_v1\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application
+C:\Users\Gokmen\Desktop\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+C:\Users\Gokmen\Desktop\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+C:\Users\Gokmen\Desktop\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.config
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe.manifest
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.application
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.exe
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DenetimWin.pdb
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\DevExpress.Images.v13.1.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.dll
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\EntityFramework.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\Newtonsoft.Json.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\bin\Debug\System.Net.Http.Formatting.xml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csprojResolveAssemblyReference.cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.baml
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\LoginWindow.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakKayıtListView.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\MainWindow.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\View\EvrakEditView.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\App.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_Content.g.cs
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin_MarkupCompile.cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.g.resources
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.Properties.Resources.resources
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWIN.csproj.GenerateResource.Cache
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.exe.manifest
+D:\_BELGELER\_UYGULAMALAR\1_SHDENETİM\Performans\03112013 p_v2\03112013 p_v2\DenetimApp_Host\DenetimWIN\obj\Debug\DenetimWin.application

@@ -1,0 +1,122 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon"
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+        xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+        xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+        xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
+    x:Class="DenetimWIN.View.EvrakEditView"
+        Loaded="Window_Loaded" Height="644" Width="784" >
+
+
+    <dxb:BarManager>
+        <dxb:BarManager.Items>
+            <dxb:BarButtonItem x:Name="SaveCommandBarButtonItem" Content="Kaydet" LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/images/save/save_32x32.png" Glyph="pack://application:,,,/DevExpress.Images.v13.1;component/images/save/save_16x16.png"/>
+            <dxb:BarButtonItem x:Name="CloseCommandBarButtonItem" Content="Kapat"  LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/images/actions/close_32x32.png" Glyph="pack://application:,,,/DevExpress.Images.v13.1;component/images/actions/close_16x16.png"/>
+        </dxb:BarManager.Items>
+        <DockPanel>
+            <dxr:RibbonControl RibbonStyle="Office2010" DockPanel.Dock="Top" RibbonHeaderVisibility="Collapsed">
+                <dxr:RibbonDefaultPageCategory Caption="defaultCategory">
+                    <dxr:RibbonPage Caption="Home">
+                        <dxr:RibbonPageGroup Caption="Kullanıcı Tasks">
+                            <dxb:BarButtonItemLink BarItemName="SaveCommandBarButtonItem"/>
+                            <dxb:BarButtonItemLink BarItemName="CloseCommandBarButtonItem"/>
+                        </dxr:RibbonPageGroup>
+                    </dxr:RibbonPage>
+                </dxr:RibbonDefaultPageCategory>
+            </dxr:RibbonControl>
+          
+                <dxlc:LayoutControl  x:Name="evrakEkran" Header="Header" UseLayoutRounding="True" View="GroupBox" Orientation="Vertical">
+
+                    <dxlc:LayoutGroup Header="Evrak Kayıt" Orientation="Vertical" UseLayoutRounding="True" View="GroupBox">
+                        <dxlc:LayoutItem Label="Evrak Tipi:">
+                            <dxe:ComboBoxEdit MinWidth="150" EditValue="{Binding EvrakTip}" AutoComplete="True" ImmediatePopup="True">
+                                <dxe:ComboBoxEditItem Content="Gelen"/>
+                                <dxe:ComboBoxEditItem Content="Giden"/>
+                            </dxe:ComboBoxEdit>
+                        </dxlc:LayoutItem>
+
+                        <dxlc:LayoutItem Label="Kayıt No:">
+                            <dxe:TextEdit  Name="txtKayıtNo" EditValue="{Binding KayitNo}" MinWidth="150"/>
+                        </dxlc:LayoutItem>
+
+                        <dxlc:LayoutItem Label="Sayı:">
+                            <dxe:TextEdit MinWidth="150" EditValue="{Binding Sayi}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="Tarih:">
+                            <dxe:DateEdit MinWidth="150" EditValue="{Binding Tarih}" MaskType="DateTimeAdvancingCaret"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="Kurum:">
+                            <dxe:TextEdit MinWidth="150" EditValue="{Binding Kurum}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="Konu Başlığı:">
+                            <dxe:ComboBoxEdit x:Name="cboKonuBaşlık" EditValue="{Binding KonuBasligi}" MinWidth="150" AutoComplete="True" ImmediatePopup="True"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="Konu:">
+                            <dxe:TextEdit MinWidth="150" EditValue="{Binding Konu}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutGroup>
+                            <dxlc:LayoutItem Label="Kaldırıldığı Klasör:">
+                                <dxe:TextEdit MinWidth="150" EditValue="{Binding KaldirildigiKlasor}"/>
+                            </dxlc:LayoutItem>
+                            <dxlc:LayoutItem Label="Klasör Sıra No:">
+                                <dxe:TextEdit MinWidth="150" EditValue="{Binding KlasorSiraNo}"/>
+                            </dxlc:LayoutItem>
+                        </dxlc:LayoutGroup>
+                        <dxlc:LayoutItem Label="Açıklama:">
+                            <dxe:TextEdit MinWidth="150" AcceptsReturn="True" Height="50" EditValue="{Binding Aciklama}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="İl:">
+                            <dxe:TextEdit MinWidth="150" EditValue="{Binding Il}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutGroup Header="Reklam" Margin="0,0,0,-4" Orientation="Vertical" View="GroupBox">
+                            <dxlc:LayoutItem Label="Reklam Teklif Edilen:">
+                                <dxe:TextEdit MinWidth="150" EditValue="{Binding Reklam_TeklifEdilen}"/>
+                            </dxlc:LayoutItem>
+                            <dxlc:LayoutItem Label="Reklam Uygulanan:">
+                                <dxe:TextEdit MinWidth="150" EditValue="{Binding Reklam_Uygulanan}"/>
+                            </dxlc:LayoutItem>
+                            <dxlc:LayoutItem Label="Reklam Kuruluş Türü:">
+                                <dxe:TextEdit MinWidth="150" EditValue="{Binding Reklam_KuruluşTuru}"/>
+                            </dxlc:LayoutItem>
+                        </dxlc:LayoutGroup>
+                        <dxlc:LayoutGroup Margin="0,10,10,0" IsCollapsible="True" IsCollapsed="True" View="GroupBox" Header="Kayıt Bilgisi" Orientation="Vertical">
+                            <dxlc:LayoutGroup>
+                                <dxlc:LayoutItem Label="İşlemi Yapan:">
+                                    <dxe:TextEdit x:Name="txtİşlemiYapan" MinWidth="150" EditValue="{Binding IslemYapan}" IsReadOnly="True"/>
+                                </dxlc:LayoutItem>
+                                <dxlc:LayoutItem Label="İşlem Tarihi:">
+                                    <dxe:TextEdit x:Name="txtİşlemTarihi" IsReadOnly="True" MinWidth="150" EditValue="{Binding IslemTarihi}"/>
+                                </dxlc:LayoutItem>
+
+                            </dxlc:LayoutGroup>
+                            <dxlc:LayoutGroup>
+
+                                <dxlc:LayoutItem Label="Son İşlem Yapan:">
+                                    <dxe:TextEdit x:Name="txtSonİşlemiYapan" MinWidth="150" EditValue="{Binding SonIslemYapan}" IsReadOnly="True"/>
+                                </dxlc:LayoutItem>
+
+
+                                <dxlc:LayoutItem Label="Son İşlem Tarihi:">
+                                    <dxe:TextEdit x:Name="txtSonİşlemTarihi2" IsReadOnly="True" MinWidth="150" EditValue="{Binding SonIslemTarihi}"/>
+                                </dxlc:LayoutItem>
+
+
+                            </dxlc:LayoutGroup>
+
+
+                        </dxlc:LayoutGroup>
+
+                    </dxlc:LayoutGroup>
+
+                </dxlc:LayoutControl>
+
+           
+        </DockPanel>
+    </dxb:BarManager>
+</Window>

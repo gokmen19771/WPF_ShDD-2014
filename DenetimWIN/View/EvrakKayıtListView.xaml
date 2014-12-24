@@ -1,0 +1,175 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+            xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" 
+            xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon" 
+            xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+            xmlns:dxp="http://schemas.devexpress.com/winfx/2008/xaml/printing"
+            xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" 
+            xmlns:System="clr-namespace:System;assembly=mscorlib" 
+            x:Class="DenetimWIN.View.EvrakKayıtListView" 
+             mc:Ignorable="d" d:DesignWidth="1382.866" d:DesignHeight="590.239">
+
+
+    <UserControl.Resources>
+        <DataTemplate x:Key="CustomPrintRowTemplate">
+
+            <StackPanel Height="{Binding UsablePageHeight}" Width="{Binding UsablePageWidth}">
+                <dxe:TextEdit  
+        			dxp:ExportSettings.Bookmark="{Binding Content.TaramaDosyaYol}" Width="200" Text="{Binding Content.TaramaDosyaYol}"/>
+                <dxe:ImageEdit   Source="{Binding Content.TaramaDosyaYol}" IsPrintingMode="True"/>
+            </StackPanel>
+
+
+        </DataTemplate>
+        <DataTemplate x:Key="CustomPrintHeaderTemplate">
+            <ContentControl Foreground="{Binding Foreground, RelativeSource={RelativeSource TemplatedParent}}"/>
+        </DataTemplate>
+
+        <DataTemplate x:Key="CustomPrintFooterTemplate">
+            <ContentControl Foreground="{Binding Foreground, RelativeSource={RelativeSource TemplatedParent}}"/>
+        </DataTemplate>
+
+    </UserControl.Resources>
+
+
+
+    <dxb:BarManager x:Name="anaBar" CreateStandardLayout="False">
+        <dxb:BarManager.Items>
+            <dxb:BarButtonItem x:Name="btnYeni"  Content="Yeni" LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Actions/New_32x32.png"/>
+            <dxb:BarButtonItem x:Name="btnİlgiYeni" Content="Dosyaya Ek" LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Actions/AddItem_32x32.png"/>
+            <dxb:BarButtonItem x:Name="btnDüzenle" Content="Düzenle" LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Format/PictureShapeOutlineColor_32x32.png"/>
+            <dxb:BarButtonItem x:Name="btnExcel" Content="Excele Gönder" LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Export/ExportToXLSX_32x32.png"/>
+
+            <dxb:BarStaticItem x:Name="barStaticAra">
+                <dxb:BarStaticItem.ContentTemplate>
+                    <DataTemplate>
+
+                        <DockPanel Loaded="DockPanel_Loaded"  Margin="0,5"  LastChildFill="True"  HorizontalAlignment="Left" >
+
+                            <dxe:CheckEdit x:Name="chk1" Margin="5,0,0,0"  Content="Tam Eşleşme" DockPanel.Dock="Right" HorizontalAlignment="Left" HorizontalContentAlignment="Right"/>
+
+
+                            <dxe:SearchControl   Margin="0" DockPanel.Dock="Left"  x:Name="xsearchControl" Width="200" Height="24" 
+								HorizontalAlignment="Left" ShowFindButton="False"
+								FilterCondition="Contains" FindMode="FindClick"
+								ShowClearButton="False" ShowMRUButton="False" SearchTextPostDelay="100000"/>
+
+                            <Button  DockPanel.Dock="Left" Height="24" x:Name="btnAra" Width="24" Padding="0" VerticalAlignment="Top" >
+                                <Image Margin="4" Source="/DenetimWIN;component/Images/ara.png" />
+                            </Button>
+
+
+                        </DockPanel>
+                    </DataTemplate>
+
+
+                </dxb:BarStaticItem.ContentTemplate>
+
+
+            </dxb:BarStaticItem>
+
+
+            <dxb:BarEditItem  EditValue="10" EditWidth="90"  x:Name="biDönecekKayıtSayısı"  
+				Content="Dönecek Kayıt Sayısı:" EditHorizontalAlignment="Left">
+                <dxb:BarEditItem.EditSettings>
+                    <dxe:ComboBoxEditSettings>
+                        <dxe:ComboBoxEditSettings.Items>
+                            <System:String>10</System:String>
+                            <System:String>100</System:String>
+                            <System:String>200</System:String>
+                            <System:String>500</System:String>
+                            <System:String>100000</System:String>
+                        </dxe:ComboBoxEditSettings.Items>
+
+                    </dxe:ComboBoxEditSettings>
+                </dxb:BarEditItem.EditSettings>
+            </dxb:BarEditItem>
+
+            <dxb:BarButtonItem x:Name="biSil" Content="Sil" LargeGlyph="pack://application:,,,/DevExpress.Images.v13.1;component/Images/Edit/Delete_32x32.png"/>
+
+        </dxb:BarManager.Items>
+        <DockPanel>
+            <dxr:RibbonControl RibbonHeaderVisibility="Collapsed" DockPanel.Dock="Top">
+                <dxr:RibbonDefaultPageCategory Caption="defaultCategory">
+                    <dxr:RibbonPage Caption="Arama" x:Name="mainRibbon">
+                        <dxr:RibbonPageGroup Caption="Kayıt İşlemleri">
+                            <dxb:BarButtonItemLink BarItemName="btnYeni"/>
+                            <dxb:BarButtonItemLink BarItemName="btnİlgiYeni"/>
+                            <dxb:BarButtonItemLink BarItemName="btnDüzenle"/>
+                            <dxb:BarButtonItemLink BarItemName="biSil"/>
+
+                            <dxb:BarItemLinkSeparator/>
+
+                        </dxr:RibbonPageGroup>
+                        <dxr:RibbonPageGroup Caption="Arama">
+                            <dxb:BarStaticItemLink BarItemName="barStaticAra"/>
+                            <dxb:BarEditItemLink  BarItemName="biDönecekKayıtSayısı"/>
+                        </dxr:RibbonPageGroup>
+                        <dxr:RibbonPageGroup Caption="Dışarı Aktar">
+                            <dxb:BarButtonItemLink BarItemName="btnExcel"/>
+
+
+                        </dxr:RibbonPageGroup>
+                    </dxr:RibbonPage>
+                </dxr:RibbonDefaultPageCategory>
+            </dxr:RibbonControl>
+
+            <dxg:GridControl x:Name="grd" Grid.Row="1"  >
+                <dxg:GridControl.Columns>
+                    <dxg:GridColumn FieldName="Id" Width="0"/>
+                    <dxg:GridColumn FieldName="KayitNo" Width="100"/>
+                    <dxg:GridColumn FieldName="EvrakTip" Width="75"/>
+                    <dxg:GridColumn FieldName="Sayi" Width="50"/>
+                    <dxg:GridColumn FieldName="Tarih" Width="100"/>
+                    <dxg:GridColumn FieldName="Il" Width="50"/>
+                    <dxg:GridColumn FieldName="Kurum"/>
+                    <dxg:GridColumn FieldName="KonuBasligi"/>
+                    <dxg:GridColumn FieldName="Konu"/>
+
+                    <dxg:GridColumn FieldName="KaldirildigiKlasor"/>
+                    <dxg:GridColumn FieldName="KlasorSiraNo"/>
+
+                    <dxg:GridColumn FieldName="Aciklama"/>
+
+
+                    <dxg:GridColumn FieldName="IslemYapan" ReadOnly="True"/>
+                    <dxg:GridColumn FieldName="IslemTarihi" ReadOnly="True"/>
+
+                    <dxg:GridColumn FieldName="Reklam_TeklifEdilen"/>
+                    <dxg:GridColumn FieldName="Reklam_Uygulanan"/>
+                    <dxg:GridColumn FieldName="Reklam_KuruluşTuru"/>
+
+
+                </dxg:GridControl.Columns>
+
+                <dxg:GridControl.TotalSummary>
+                    <dxg:GridSummaryItem Alignment="Left"  SummaryType="Count"  DisplayFormat="Kayıt Sayısı: {0}"/>
+
+                </dxg:GridControl.TotalSummary>
+
+
+
+                <dxg:GridControl.View>
+
+
+                 
+                    
+                    <dxg:TreeListView x:Name="view1" NavigationStyle="Row" TreeLineStyle="Solid" 
+                                      ParentFieldName="KayitNo" KeyFieldName="Id" 
+                                      ShowTotalSummary="True" SearchPanelImmediateMRUPopup="True"
+                                      ShowAutoFilterRow="True" ShowSearchPanelFindButton="True" 
+                                      ShowSearchPanelMode="Never"  
+                                       ShowFixedTotalSummary="True"/>
+                </dxg:GridControl.View>
+            </dxg:GridControl>
+
+        </DockPanel>
+    </dxb:BarManager>
+
+
+</UserControl>
+

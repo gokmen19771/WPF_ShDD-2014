@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0896A9F5-17DC-448E-ACF0-33F660FBD68E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DenetimWIN</RootNamespace>
+    <AssemblyName>DenetimWin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/DenetimApp/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://shdenetim.saglik.gov.tr/DenetimApp/</InstallUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>kur.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9567749171E7578715197454793088CC98FA1C02</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DenetimWIN_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Core.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="devexpress.xpf.docking.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Grid.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Grid.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Layout.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.LayoutControl.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Mvvm.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.NavBar.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Printing.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Ribbon.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework">
+      <HintPath>packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>packages\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationUI, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNet.WebApi.Client.4.0.30506.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="..\DenetimMVC\Models\DosyaKayıt.cs">
+      <Link>Model\DosyaKayıt.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\EvrakKayıtEski.cs">
+      <Link>Model\EvrakKayıtEski.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\Faaliyet.cs">
+      <Link>Model\Faaliyet.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\KonuBasliklari.cs">
+      <Link>Model\KonuBasliklari.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\Kullanicilar.cs">
+      <Link>Model\Kullanicilar.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\Menü.cs">
+      <Link>Model\Menü.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\MyModelBase.cs">
+      <Link>Model\MyModelBase.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\Süreç.cs">
+      <Link>Model\Süreç.cs</Link>
+    </Compile>
+    <Compile Include="..\DenetimMVC\Models\Yapılanİşlemler.cs">
+      <Link>Model\Yapılanİşlemler.cs</Link>
+    </Compile>
+    <Compile Include="LoginWindow.xaml.cs">
+      <DependentUpon>LoginWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+    <Compile Include="View\EvrakEditView.xaml.cs">
+      <DependentUpon>EvrakEditView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="LoginWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\EvrakKayıtListView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="View\EvrakKayıtListView.xaml.cs">
+      <DependentUpon>EvrakKayıtListView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\EvrakEditView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="DenetimWIN_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\MvcApplication1.Models.EvrakKayıtEski.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <None Include="Scripts\jquery-2.0.3.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ara.png" />
+    <Resource Include="Images\photoViewer.png" />
+    <Resource Include="Images\tara.png" />
+    <Resource Include="Images\anahtar.png" />
+    <Resource Include="Images\Contacts\Alphabetical_32x32.png" />
+    <Resource Include="Images\Contacts\ByState_32x32.png" />
+    <Resource Include="Images\Contacts\Card_32x32.png" />
+    <Resource Include="Images\Contacts\Copy_16x16.png" />
+    <Resource Include="Images\Contacts\Cut_16x16.png" />
+    <Resource Include="Images\Contacts\EditContact_32x32.png" />
+    <Resource Include="Images\Contacts\List_32x32.png" />
+    <Resource Include="Images\Contacts\NewContact_32x32.png" />
+    <Resource Include="Images\Contacts\Paste_16x16.png" />
+    <Resource Include="Images\Contacts\Save_32x32.png" />
+    <Resource Include="Images\Contacts\Unknown-user.png" />
+    <Resource Include="Images\Icons\close-16x16.png" />
+    <Resource Include="Images\Icons\close-32x32.png" />
+    <Resource Include="Images\Icons\copy-16x16.png" />
+    <Resource Include="Images\Icons\copy-32x32.png" />
+    <Resource Include="Images\Icons\cut-16x16.png" />
+    <Resource Include="Images\Icons\cut-32x32.png" />
+    <Resource Include="Images\Icons\Group.png" />
+    <Resource Include="Images\Icons\index-16x16.png" />
+    <Resource Include="Images\Icons\index-32x32.png" />
+    <Resource Include="Images\Icons\Item.png" />
+    <Resource Include="Images\Icons\new-16x16.png" />
+    <Resource Include="Images\Icons\new-32x32.png" />
+    <Resource Include="Images\Icons\open-16x16.png" />
+    <Resource Include="Images\Icons\open-32x32.png" />
+    <Resource Include="Images\Icons\paste-16x16.png" />
+    <Resource Include="Images\Icons\paste-32x32.png" />
+    <Resource Include="Images\Icons\print-16x16.png" />
+    <Resource Include="Images\Icons\print-32x32.png" />
+    <Resource Include="Images\Icons\redo-16x16.png" />
+    <Resource Include="Images\Icons\save-16x16.png" />
+    <Resource Include="Images\Icons\save-as-16x16.png" />
+    <Resource Include="Images\Icons\undo-16x16.png" />
+    <Resource Include="Images\Icons\zoom-16x16.png" />
+    <Resource Include="Images\Icons\zoom-32x32.png" />
+    <Resource Include="Images\SingleImages\ActiveCustomersList_16x16.png" />
+    <Resource Include="Images\SingleImages\ActiveCustomersList_32x32.png" />
+    <Resource Include="Images\SingleImages\ActiveRents_16x16.png" />
+    <Resource Include="Images\SingleImages\ActiveRents_32x32.png" />
+    <Resource Include="Images\SingleImages\Actor_16x16.png" />
+    <Resource Include="Images\SingleImages\Actor_32x32.png" />
+    <Resource Include="Images\SingleImages\AddItem_16x16.png" />
+    <Resource Include="Images\SingleImages\AddItem_32x32.png" />
+    <Resource Include="Images\SingleImages\Add_16x16.png" />
+    <Resource Include="Images\SingleImages\Add_32x32.png" />
+    <Resource Include="Images\SingleImages\Categories_16x16.png" />
+    <Resource Include="Images\SingleImages\Categories_32x32.png" />
+    <Resource Include="Images\SingleImages\CloseDetails_16x16.png" />
+    <Resource Include="Images\SingleImages\CloseDetails_32x32.png" />
+    <Resource Include="Images\SingleImages\Close_16x16.png" />
+    <Resource Include="Images\SingleImages\Close_32x32.png" />
+    <Resource Include="Images\SingleImages\Company_16x16.png" />
+    <Resource Include="Images\SingleImages\Company_32x32.png" />
+    <Resource Include="Images\SingleImages\CustomerFilmRentsList_16x16.png" />
+    <Resource Include="Images\SingleImages\CustomerFilmRentsList_32x32.png" />
+    <Resource Include="Images\SingleImages\CustomerInfoCards_16x16.png" />
+    <Resource Include="Images\SingleImages\CustomerInfoCards_32x32.png" />
+    <Resource Include="Images\SingleImages\CustomerRevenue_16x16.png" />
+    <Resource Include="Images\SingleImages\CustomerRevenue_32x32.png" />
+    <Resource Include="Images\SingleImages\CustomersByDate_16x16.png" />
+    <Resource Include="Images\SingleImages\CustomersByDate_32x32.png" />
+    <Resource Include="Images\SingleImages\CustomersKPI_16x16.png" />
+    <Resource Include="Images\SingleImages\CustomersKPI_32x32.png" />
+    <Resource Include="Images\SingleImages\Delete_16x16.png" />
+    <Resource Include="Images\SingleImages\Delete_32x32.png" />
+    <Resource Include="Images\SingleImages\Edit_16x16.png" />
+    <Resource Include="Images\SingleImages\Edit_32x32.png" />
+    <Resource Include="Images\SingleImages\Employee_16x16.png" />
+    <Resource Include="Images\SingleImages\Employee_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToExcel_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToExcel_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToHTML_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToHTML_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToIMG_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToIMG_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToMHT_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToMHT_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToPDF_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToPDF_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToRTF_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToRTF_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToTXT_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToTXT_32x32.png" />
+    <Resource Include="Images\SingleImages\ExportToXML_16x16.png" />
+    <Resource Include="Images\SingleImages\ExportToXML_32x32.png" />
+    <Resource Include="Images\SingleImages\Export_16x16.png" />
+    <Resource Include="Images\SingleImages\Export_32x32.png" />
+    <Resource Include="Images\SingleImages\FilmItemInfoCards_16x16.png" />
+    <Resource Include="Images\SingleImages\FilmItemInfoCards_32x32.png" />
+    <Resource Include="Images\SingleImages\Group_Administrator.png" />
+    <Resource Include="Images\SingleImages\Group_Catalog.png" />
+    <Resource Include="Images\SingleImages\Group_KPI.png" />
+    <Resource Include="Images\SingleImages\Group_Rental.png" />
+    <Resource Include="Images\SingleImages\Group_Reports.png" />
+    <Resource Include="Images\SingleImages\Group_Statistics.png" />
+    <Resource Include="Images\SingleImages\Home_16x16.png" />
+    <Resource Include="Images\SingleImages\Home_32x32.png" />
+    <Resource Include="Images\SingleImages\Info_16x16.png" />
+    <Resource Include="Images\SingleImages\Info_32x32.png" />
+    <Resource Include="Images\SingleImages\LayoutFlip_16x16.png" />
+    <Resource Include="Images\SingleImages\LayoutFlip_32x32.png" />
+    <Resource Include="Images\SingleImages\LayoutOptions_16x16.png" />
+    <Resource Include="Images\SingleImages\LayoutOptions_32x32.png" />
+    <Resource Include="Images\SingleImages\LayoutRotate_16x16.png" />
+    <Resource Include="Images\SingleImages\LayoutRotate_32x32.png" />
+    <Resource Include="Images\SingleImages\ManageItems_16x16.png" />
+    <Resource Include="Images\SingleImages\ManageItems_32x32.png" />
+    <Resource Include="Images\SingleImages\MediaPerformance_16x16.png" />
+    <Resource Include="Images\SingleImages\MediaPerformance_32x32.png" />
+    <Resource Include="Images\SingleImages\MoviesKPI_16x16.png" />
+    <Resource Include="Images\SingleImages\MoviesKPI_32x32.png" />
+    <Resource Include="Images\SingleImages\Movie_16x16.png" />
+    <Resource Include="Images\SingleImages\Movie_32x32.png" />
+    <Resource Include="Images\SingleImages\Navigation_16x16.png" />
+    <Resource Include="Images\SingleImages\Navigation_32x32.png" />
+    <Resource Include="Images\SingleImages\New_16x16.png" />
+    <Resource Include="Images\SingleImages\New_32x32.png" />
+    <Resource Include="Images\SingleImages\Next_16x16.png" />
+    <Resource Include="Images\SingleImages\Next_32x32.png" />
+    <Resource Include="Images\SingleImages\Open_16x16.png" />
+    <Resource Include="Images\SingleImages\Open_32x32.png" />
+    <Resource Include="Images\SingleImages\Order_16x16.png" />
+    <Resource Include="Images\SingleImages\Order_32x32.png" />
+    <Resource Include="Images\SingleImages\Palette_16x16.png" />
+    <Resource Include="Images\SingleImages\Palette_32x32.png" />
+    <Resource Include="Images\SingleImages\Period_16x16.png" />
+    <Resource Include="Images\SingleImages\Period_32x32.png" />
+    <Resource Include="Images\SingleImages\Person_16x16.png" />
+    <Resource Include="Images\SingleImages\Person_32x32.png" />
+    <Resource Include="Images\SingleImages\Preview_16x16.png" />
+    <Resource Include="Images\SingleImages\Preview_32x32.png" />
+    <Resource Include="Images\SingleImages\Previous_16x16.png" />
+    <Resource Include="Images\SingleImages\Previous_32x32.png" />
+    <Resource Include="Images\SingleImages\Refresh_16x16.png" />
+    <Resource Include="Images\SingleImages\Refresh_32x32.png" />
+    <Resource Include="Images\SingleImages\Return_16x16.png" />
+    <Resource Include="Images\SingleImages\Return_32x32.png" />
+    <Resource Include="Images\SingleImages\RevenueSplit_16x16.png" />
+    <Resource Include="Images\SingleImages\RevenueSplit_32x32.png" />
+    <Resource Include="Images\SingleImages\Revenue_16x16.png" />
+    <Resource Include="Images\SingleImages\Revenue_32x32.png" />
+    <Resource Include="Images\SingleImages\Sale_16x16.png" />
+    <Resource Include="Images\SingleImages\Sale_32x32.png" />
+    <Resource Include="Images\SingleImages\SaveAndClose_16x16.png" />
+    <Resource Include="Images\SingleImages\SaveAndClose_32x32.png" />
+    <Resource Include="Images\SingleImages\Save_16x16.png" />
+    <Resource Include="Images\SingleImages\Save_32x32.png" />
+    <Resource Include="Images\SingleImages\Scheduler_16x16.png" />
+    <Resource Include="Images\SingleImages\Scheduler_32x32.png" />
+    <Resource Include="Images\SingleImages\TheMostProfitableGenresList_16x16.png" />
+    <Resource Include="Images\SingleImages\TheMostProfitableGenresList_32x32.png" />
+    <Resource Include="Images\SingleImages\TopCustomers_16x16.png" />
+    <Resource Include="Images\SingleImages\TopCustomers_32x32.png" />
+    <Resource Include="Images\SingleImages\TopFilmList_16x16.png" />
+    <Resource Include="Images\SingleImages\TopFilmList_32x32.png" />
+    <Resource Include="Images\SingleImages\UserKey_16x16.png" />
+    <Resource Include="Images\SingleImages\UserKey_32x32.png" />
+    <Resource Include="Images\SingleImages\Views_16x16.png" />
+    <Resource Include="Images\SingleImages\Views_32x32.png" />
+    <Resource Include="Images\SingleImages\View_16x16.png" />
+    <Resource Include="Images\SingleImages\View_32x32.png" />
+    <Resource Include="Images\SüreçŞema.png" />
+    <Resource Include="Images\ThemeIcons\DeepBlue_48x48.png" />
+    <Resource Include="Images\ThemeIcons\DXStyle.png" />
+    <Resource Include="Images\ThemeIcons\LightGray_48x48.png" />
+    <Resource Include="Images\ThemeIcons\MetropolisDark.png" />
+    <Resource Include="Images\ThemeIcons\MetropolisLight_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2007Black_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2007Blue_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2007Silver_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2010Black_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2010Blue_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2010Silver_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Office2013_48x48.png" />
+    <Resource Include="Images\ThemeIcons\Seven_48x48.png" />
+    <Resource Include="Images\ThemeIcons\VS2010.png" />
+    <Resource Include="Images\TreeIcons\Flag_1.png" />
+    <Resource Include="Images\TreeIcons\Flag_2.png" />
+    <Resource Include="Images\TreeIcons\Flag_3.png" />
+    <Resource Include="Images\TreeIcons\Flag_4.png" />
+    <Resource Include="Images\Wallpaper3.jpg" />
+    <Resource Include="Images\Wallpaper3.png" />
+    <Content Include="Scripts\jquery-2.0.3.intellisense.js" />
+    <Content Include="Scripts\jquery-2.0.3.js" />
+    <Content Include="Scripts\jquery-2.0.3.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="DevExpress.Data.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Printing.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Core.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Docking.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Grid.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Grid.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Layout.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.LayoutControl.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Mvvm.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.NavBar.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Printing.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpf.Ribbon.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Converters\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
